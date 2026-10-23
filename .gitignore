@@ -1,0 +1,16 @@
+# .gitignore - tells Git what NOT to track
+.venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.venv/
+__pycache__/
+*.mp4
+*.jpg
+*.txt
+*.png
+*.yaml
+soccer_dataset/
+runs/
